@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Persediaan Darah PMI Palembang</string>
+    <string name="TGD_title">Tentang Golongan Darah</string>
+    <string name="SD_title">Stok Darah</string>
+    <string name="PD_title">Pendonor Darah</string>
+    <string name="EPMI_title">Event(Kegiatan) PMI Palembang</string>
+    <string name="IPMI_title">Informasi PMI Palembang</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="jumlah">Jumlah : </string>
+    <string name="GolDar">Golongan Darah</string>
+
+    <string name="namaPendonor">Nama : </string>
+    <string name="golDarPendonor">Golongan Darah : </string>
+    <string name="alamatPendonor">Alamat : </string>
+    <string name="noHPPendonor">No Hp : </string>
+    <string name="tglDaftarPendonor">Terakhir Donor : </string>
+
+    <string name="tglEvent">Tanggal : </string>
+    <string name="tmpEvent">Kunjungi : </string>
+    <string name="jamEvent">Pukul : </string>
+
+    <string name="title">UNIT TRANSFUSI DARAH PMI PALEMBANG</string>
+    <string name="alamatPMI1">Hubungi : </string>
+    <string name="alamatPMI2">Jln Srijaya, Komplek SKB 5.5 Kota Palembang 30128</string>
+    <string name="alamatPMI3">Pelayanan 24 jam</string>
+    <string name="noTelp">Telp. 0711356282</string>
+    <string name="jamAdmin">Administrasi 08.00 s/d 13.00</string>
+
+    <string name="DeskGolA">
+         adalah Individu dengan golongan darah A memiliki sel darah merah dengan antigen A di permukaan membran selnya
+        dan menghasilkan antibodi terhadap antigen B dalam serum darahnya. Sehingga, orang dengan golongan darah A-negatif
+        hanya dapat menerima darah dari orang dengan golongan darah A-negatif atau O-negatif. \n\n
+    </string>
+    <string name="DeskGolB">
+        adalah Individu dengan golongan darah B memiliki antigen B pada permukaan sel darah merahnya dan menghasilkan
+        antibodi terhadap antigen A dalam serum darahnya. Sehingga, orang dengan golongan darah B-negatif hanya dapat
+        menerima darah dari orang dengan dolongan darah B-negatif atau O-negatif \n\n
+    </string>
+    <string name="DeskGolAB">
+       adalah Individu dengan golongan darah AB memiliki sel darah merah dengan antigen A dan B serta tidak menghasilkan
+        antibodi terhadap antigen A maupun B. Sehingga, orang dengan golongan darah AB-positif dapat menerima darah dari
+        orang dengan golongan darah ABO apapun dan disebut resipien universal. Namun, orang dengan golongan darah AB-positif
+        tidak dapat mendonorkan darah kecuali pada sesama AB-positif. \n\n
+    </string>
+    <string name="DeskGolO">
+        adalah Individu dengan golongan darah O memiliki sel darah tanpa antigen, tapi memproduksi antibodi terhadap antigen A
+        dan B. Sehingga, orang dengan golongan darah O-negatif dapat mendonorkan darahnya kepada orang dengan golongan darah ABO
+        apapun dan disebut donor universal. Namun, orang dengan golongan darah O-negatif hanya dapat menerima darah dari
+        sesama O-negatif. \n\n
+    </string>
+    <string name="SyaratCalonPendonor">
+        1. Umur 17 – 60 tahun(usia 17 tahun diperbolehkan mendonor bila mendapat izin tertulis dari orang tua) \n\n
+        2. Berat badan 50 kg atau lebih \n\n
+        3. Temperatur tubuh 36,6-37,5 derajat celcius \n\n
+        4. Hemoglobin Perempuan minimal 12 gr, sedangkan Prian Minimal 12,5 gr \n\n
+        5. Tekanan darah 120/140/80 - 100 mmHg \n\n
+        6. Nadi 50-100/menit teratur \n\n
+        7. Tidak berpenyakit jantung, hati, paru-paru, ginjal, kencing manis, penyakit
+            perdarahan, kejang, kanker, penyakit kulit kronis. \n\n
+        8. Tidak hamil, menyusui, menstruasi (bagi wanita \n\n
+        9. Beritahu Petugas bila makan aspirin dalam 3 hari terakhir. \n\n
+    </string>
+    <string name="OrangTidakBolehDonor">
+        1. Pernah menderita hepatitis B \n\n
+        2. Dalam jangka waktu enam bulan sesudah kontak erat dengan penderita
+            hepatitis \n\n
+        3. Dalam jangka waktu enam bulan sesudah transfuse \n\n
+        4. Dalam jangka waktu enam bulan sesudah tato/tindik telinga \n\n
+        5. Dalam jangka waktu 72 jam sesudah operasi gigi \n\n
+        6. Dalam jangka waktu enam bulan sesudah operasi kecil \n\n
+        7. Dalam jangka waktu 12 bulan sesudah operasi besar \n\n
+        8. Dalam jangka waktu 24 jam sesudah vaksinasi polio, influenza, kolera,
+            tetanus dipteria, atau profilaksis. \n\n
+    </string>
+</resources>
